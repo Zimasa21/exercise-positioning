@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Odibee+Sans&display=swap');
+
+body {
+    background-color: rgb(139, 139, 231) ;
+}
+section,
+aside,
+footer {
+    background-color: cornsilk;
+}
+
+.sectioning img {
+    position: relative;
+    background-color: rgb(223, 95, 49);
+    padding-left: 100%;
+    float: left;
+    width: 0;
+    margin-block-start: 0;
+}
+
